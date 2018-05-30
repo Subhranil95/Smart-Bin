@@ -4,12 +4,12 @@ A major environmental concern of our society today is proper management and disp
 
 Components Used:
 
-Arduino Mega 2500 board
-Ultrasonic Sensor HC-SR04
-ESP8266 (ESP-01) Wi-Fi Module
-Breadboard
-Jumper Wires
-Dustbins
+1) Arduino Mega 2500 board
+2) ltrasonic Sensor HC-SR04
+3) ESP8266 (ESP-01) Wi-Fi Module
+4) Breadboard
+5) Jumper Wires
+6) Dustbins
 
 
 Working:
