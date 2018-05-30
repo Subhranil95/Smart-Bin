@@ -5,7 +5,7 @@ A major environmental concern of our society today is proper management and disp
 Components Used:
 
 1) Arduino Mega 2500 board
-2) ltrasonic Sensor HC-SR04
+2) Ultrasonic Sensor HC-SR04
 3) ESP8266 (ESP-01) Wi-Fi Module
 4) Breadboard
 5) Jumper Wires
@@ -14,7 +14,7 @@ Components Used:
 
 Working:
 
-The Smart Bin uses ultrasonic sensors to monitor the height of grabage in any dustbin. Ultrasonic sensors are placed on the interior side of the lid of each dustbin. The HC-SR04 ultrasonic sensor is a 4 pin module, whose pin names are Vcc, Trigger, Echo and Ground respectively. The module has two eyes like projects in the front which forms the Ultrasonic transmitter and Receiver. The Ultrasonic transmitter transmits an ultrasonic wave which travels in air and when it strikes any material, it gets reflected back towards the sensor. This reflected wave is observed by the Ultrasonic receiver module as shown in the picture below.
+The Smart Bin uses ultrasonic sensors to monitor the height of grabage in any dustbin. Ultrasonic sensors are placed on the interior side of the lid of each dustbin. The HC-SR04 ultrasonic sensor is a 4-pin module, whose pin names are Vcc, Trigger, Echo and Ground respectively. The module has two eyes like projects in the front which forms the Ultrasonic transmitter and Receiver. The Ultrasonic transmitter transmits an ultrasonic wave which travels in air and when it strikes any material, it gets reflected back towards the sensor. This reflected wave is observed by the Ultrasonic receiver module as shown in the picture below.
 
 ![ultrasonic-sensor-working](https://user-images.githubusercontent.com/17234130/40727592-d07c9e80-6445-11e8-82fb-a636e6c5967a.png)
 
